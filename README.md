@@ -108,6 +108,10 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 [![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
 -->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyalshine&show_icons=true&locale=en&layout=compact" alt="joyalshine" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshine&" alt="joyalshine" /></p>
+
 
 ### Interesting stats
 
